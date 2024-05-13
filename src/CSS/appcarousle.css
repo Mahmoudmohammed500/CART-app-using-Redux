@@ -1,0 +1,26 @@
+.height {
+    max-height: 600px;
+}
+.light {
+    color:rgb(197, 64, 64)
+}
+.carousel-control-next-icon {
+    background-image: url('../Images/angles-right-solid.svg');
+}
+.carousel-control-prev-icon {
+    background-image: url('../Images/angles-left-solid.svg');
+}
+.carousel-indicators [data-bs-target] {
+    border-radius: 50% !important;
+    width: 20px !important;
+    height:20px !important;
+    background-color:#2976a9 !important;
+}
+.carousel-caption {
+    background-color: #2976a9 !important ;
+    padding: 30px;
+    position: absolute;
+    bottom: 90px;
+    opacity: .75;
+    border-radius: 20px;
+}

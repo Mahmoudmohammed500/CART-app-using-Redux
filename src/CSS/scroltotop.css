@@ -1,0 +1,23 @@
+
+.scroll-container {
+    position: sticky;
+    position: -webkit-sticky;
+    top:550px;
+    border: 1px solid #2976a9;
+    border-radius: 50%;
+    width:25px;
+    background-color: #2976a9;
+    color: white;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+} 
+.scroll-container:hover {
+background-color: #2976a9d9;
+}
+.scroll-btn {
+position:relative;
+left:0;
+transform: translateX(50%);
+}

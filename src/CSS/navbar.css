@@ -1,0 +1,29 @@
+.navbar {
+    background-color: white;
+    box-shadow:-1px 15px 17px -8px rgba(0,0,0,.1);
+}
+.carticon {
+    padding:10px;
+    padding-left: 8px;
+    background-color: #f3f5f9;
+    width:20px;
+    color:black;
+    border-radius: 50%;
+}
+.relative {
+    position: relative;
+    display: block;
+    width:fit-content;
+}
+.Cartlengthnumber {
+    background-color: #2976a9;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 12px;
+    height: 20px;
+    position: absolute;
+    text-align: center;
+    width: 20px;
+    right: -7px;
+    top: 24px;
+}
