@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CART-app-using-Redux/static/css/main.2e347881.css",
+    "main.js": "/CART-app-using-Redux/static/js/main.dffc0882.js",
+    "static/js/787.8ea6fc36.chunk.js": "/CART-app-using-Redux/static/js/787.8ea6fc36.chunk.js",
+    "static/media/logo-removebg-preview.png": "/CART-app-using-Redux/static/media/logo-removebg-preview.75916e688f2a56d5db08.png",
+    "static/media/image5.jpg": "/CART-app-using-Redux/static/media/image5.ff9d6033cdc3a7360e5e.jpg",
+    "static/media/image7.jpg": "/CART-app-using-Redux/static/media/image7.59b4b2e0de281b35180c.jpg",
+    "static/media/image6.jpg": "/CART-app-using-Redux/static/media/image6.c4fde6d3ac4a232297ed.jpg",
+    "index.html": "/CART-app-using-Redux/index.html",
+    "static/media/angles-right-solid.svg": "/CART-app-using-Redux/static/media/angles-right-solid.d598722f8bcedfc299ca.svg",
+    "static/media/angles-left-solid.svg": "/CART-app-using-Redux/static/media/angles-left-solid.d1b7937a38c3a5d7f86a.svg",
+    "main.2e347881.css.map": "/CART-app-using-Redux/static/css/main.2e347881.css.map",
+    "main.dffc0882.js.map": "/CART-app-using-Redux/static/js/main.dffc0882.js.map",
+    "787.8ea6fc36.chunk.js.map": "/CART-app-using-Redux/static/js/787.8ea6fc36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e347881.css",
+    "static/js/main.dffc0882.js"
+  ]
+}
