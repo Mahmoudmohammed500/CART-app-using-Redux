@@ -1,5 +1,5 @@
 ﻿# Cart App =>
-                         * Using CSS ,Bootstram and React-Bootstrab For styling
+                         * Using CSS ,Bootstrab and React-Bootstrab For styling
                          * Using HTML,React.js and js for display data
                          * Using Json Server for Sending and getting data
                          * Using React-Router-Dom for Routing
